@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Agasthi',
-    title: 'Student | Your Role',
+    title: 'Undergraduate | Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
@@ -53,7 +53,7 @@ const siteConfig = {
     {
       institution: 'Christ University',
       degree: 'Bsc Economics with Data Science',
-      year: 'YYYY–YYYY',
+      year: '2025–2028',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },

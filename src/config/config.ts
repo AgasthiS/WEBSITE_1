@@ -107,15 +107,15 @@ const siteConfig = {
   // ✅ Projects section updated
   projects: [
     {
-      title: 'Project Title 1',
+      title: 'Inflation and GDP Growth Analysis',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Short description of your project and what it does...',
+      description: 'Analyzed the relationship between inflation and GDP growth using economic data, focusing on trends and volatility through visualizations and basic statistical methods.',
       Githublink: 'https://github.com/your-username/your-project',
     },
     {
-      title: 'Project Title 2',
+      title: 'Python Algorithm Practice',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Another project summary...',
+      description: 'Built and practiced fundamental algorithms such as Fibonacci series and numerical computations in Python to strengthen logical and problem-solving skills.',
       Githublink: 'https://github.com/your-username/another-project',
     },
   ],

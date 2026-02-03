@@ -10,13 +10,13 @@ const siteConfig = {
     title: 'Economist | Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am an undergraduate student pursuing Economics with Data Science, with a strong interest in data analysis and quantitative problem-solving.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Currently studying at Christ University, I focus on working with economic data, statistics, and Python to explore real-world trends and insights.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'My academic background is supported by hands-on coursework and certifications in data science, where I have built small analytical projects and visualizations.\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
+      'I am continuously developing my skills through practical projects and self-driven learning in economics and data analytics.',
     tagline: 'Apiring Data Analyst',
     location: 'Bangalore, India',
   },

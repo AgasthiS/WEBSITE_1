@@ -128,7 +128,7 @@ const siteConfig = {
 
   books: [
     {
-      title: 'Your Book Title',
+      title: 'HI Book Title',
       description: 'Short description of your book or resource.',
       image: getAsset('images/book_cover_placeholder.png'),
       link: 'https://example.com/your-book',

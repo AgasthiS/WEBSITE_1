@@ -22,11 +22,11 @@ const siteConfig = {
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Agasthithayaagaran Saravanen – Economics and Data Science',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Economics Student', 'Data Analysis', 'Coding'],
 
   navigation: [
     { name: 'Home', url: '/' },
@@ -43,7 +43,7 @@ const siteConfig = {
   // Add more entries here as you add more static HTML blog files under public/static_page/
   blogs: [
     {
-      title: 'Your Blog Title',
+      title: 'Understanding Project Management Through Real-World Examples',
       url: getAsset('static_page/project_management_blog.html'), // Replace with your static HTML page
     },
   ],
@@ -55,31 +55,20 @@ const siteConfig = {
       degree: 'Bsc Economics with Data Science',
       year: '2025–2028',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Brief description of your focus or thesis'],
-    },
-    {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
-      image: getAsset('images/education/placeholder.png'),
-      description: ['Key topics or skills learned'],
+      description: ['Focused on microeconomics, macroeconomics, statistics, and data-driven economic analysis.'],
     },
   ],
 
 // ✅ Unified MOOC + Certifications Section
   certifications: [
     {
-      title: 'Your Certificate or Specialization',
+      title: 'Python with AI Specialization',
       specialization: true,
       file: getAsset('images/education/Certifications/download.svg'),
       certificates: [
-        { name: 'Course 1', file: getAsset('images/education/Certifications/download.svg') },
-        { name: 'Course 2', file: getAsset('images/education/Certifications/download.svg') },
+        { name: 'Python Fundamentals', file: getAsset('images/education/Certifications/download.svg') },
+        { name: 'Applied Data Analysis with Python', file: getAsset('images/education/Certifications/download.svg') },
       ],
-    },
-    {
-      title: 'Another Certificate',
-      file: getAsset('images/education/Certifications/download.svg'),
     },
   ],
 
@@ -88,18 +77,18 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
+      title: 'Client Outreach',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
-      time: '(MMM YYYY – Present)',
-      desp: ['Brief responsibility 1', 'Brief responsibility 2'],
+      place: 'Flekt',
+      time: '(Dec 2025 – Present)',
+      desp: ['Reach out to potential salons interested in the product and book demos'],
     },
     {
-      title: 'Previous Role',
+      title: 'Digital Marketing',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Previous Organization',
-      time: '(MMM YYYY – MMM YYYY)',
-      desp: ['Key contribution 1', 'Key contribution 2'],
+      place: 'Sanko-A-Textile',
+      time: '(Jul 2023 – Aug 2023)',
+      desp: ['Handeled the social media account of the company.'],
     },
   ],
 
@@ -107,9 +96,8 @@ const siteConfig = {
   // ✅ Projects section updated
   projects: [
     {
-      title: 'Project Title 1',
-      cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Short description of your project and what it does...',
+      title: 'Inflation vs GDP Growth Analysis',
+      description: 'Analyzed the relationship between inflation and GDP growth using time-series data and visualizations.',
       Githublink: 'https://github.com/your-username/your-project',
     },
     {

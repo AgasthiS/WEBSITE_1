@@ -53,23 +53,23 @@ const siteConfig = {
     {
       institution: 'Christ University',
       degree: 'Bsc Economics with Data Science',
-      year: 'YYYY–YYYY',
+      year: '2025–2028',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Brief description of your focus or thesis'],
+      description: ['Focused on microeconomics, macroeconomics, statistics, and data-driven economic analysis.'],
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'Corvuss American Academy',
+      degree: 'Western Association of Schools and Colleges',
+      year: '2023–2025',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Key topics or skills learned'],
+      description: ['High School Diploma'],
     },
   ],
 
 // ✅ Unified MOOC + Certifications Section
   certifications: [
     {
-      title: 'Your Certificate or Specialization',
+      title: 'Python with AI',
       specialization: true,
       file: getAsset('images/education/Certifications/download.svg'),
       certificates: [
@@ -88,11 +88,11 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
+      title: 'Client Outreach',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
-      time: '(MMM YYYY – Present)',
-      desp: ['Brief responsibility 1', 'Brief responsibility 2'],
+      place: 'Flekt',
+      time: '(Dec 2025 – Present)',
+      desp: ['Reached out to potential salons and made regular sales calls.'],
     },
     {
       title: 'Previous Role',

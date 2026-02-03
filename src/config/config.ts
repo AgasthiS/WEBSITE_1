@@ -123,17 +123,17 @@ const siteConfig = {
 
   research: [
     {
-      title: 'Your Paper or Research Title',
-      authors: 'Your Name, Collaborator Name',
+      title: 'A Comparative Study of Inflation and GDP Growth Volatility in India',
+      authors: 'Agasthithayaagaran Saravanen',
       conferences: 'Conference or Journal, Publisher',
       researchYr: 2024,
   image: getAsset('images/research/placeholder.png'),
       citation: {
         vancouver:
-          'Author A, Author B. Title of the work. Venue, Year. DOI/URL.',
+          'Gupta S. A Comparative Study of Inflation and GDP Growth Volatility in India. Undergraduate Research Project, Christ University, 2024.',
       },
       abstract:
-        'One or two sentences summarizing the contribution...',
+        'This study examines the relative volatility of inflation and GDP growth in India using secondary macroeconomic data, highlighting implications for economic stability and policy analysis.',
       link: 'https://example.com/your-publication',
     },
   ],
